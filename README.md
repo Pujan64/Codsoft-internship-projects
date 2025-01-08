@@ -4,8 +4,10 @@ I make the 4 projects of the python the
 
 1st project is  TO-DO LIST 
 
-2nd project is  CALCULATOR
+I’ve developed a To-Do List application that helps users manage tasks efficiently.
 
-3rd project is  PASSWORD GENERATOR
+Key Features:
 
-4th project is  Rock-Paper-Scissors Game
+User-friendly interface
+Task organization and prioritization
+Due dates and reminders
